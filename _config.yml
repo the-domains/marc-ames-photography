@@ -1,0 +1,23 @@
+name: Marc Ames Photography
+favicon: null
+layout_spectrum: 0.9285028036683798
+typography_spectrum: 0.399159042397514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.13473192928358912
+  lightness: 0.1500617873389274
+  saturation: 0.36396807874552906
+  rhythmicContrast: 0.5075163708534092
+purpose: []
