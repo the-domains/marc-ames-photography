@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Beautiful Child
-datePublished: '2015-11-17T00:14:35.429Z'
-dateModified: '2015-11-17T00:14:18.974Z'
+datePublished: '2015-11-17T00:23:34.172Z'
+dateModified: '2015-11-17T00:23:10.599Z'
 title: My Best Photo
+sourcePath: _posts/2015-11-17-my-best-photo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-17-my-best-photo.md
-published: true
 url: my-best-photo/index.html
 _type: Article
 
