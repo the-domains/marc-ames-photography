@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Beautiful Child
-datePublished: '2015-11-17T00:27:07.129Z'
-dateModified: '2015-11-17T00:27:04.417Z'
+datePublished: '2015-11-17T00:29:35.852Z'
+dateModified: '2015-11-17T00:29:31.765Z'
 title: My Best Photos
 sourcePath: _posts/2015-11-17-my-best-photo.md
 published: true
