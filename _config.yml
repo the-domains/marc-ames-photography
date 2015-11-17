@@ -1,6 +1,6 @@
 name: Marc Ames Photography
 favicon: null
-layout_spectrum: 0.88862
+layout_spectrum: 0.8751
 typography_spectrum: 0.89679
 title: Marc Ames Photography
 cta:
@@ -24,6 +24,6 @@ color:
     - '#82817d'
   brandStrength: 0.5
   lightness: 0.3125
-  saturation: 0.375
-  rhythmicContrast: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 0
 purpose: []
