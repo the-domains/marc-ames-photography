@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Marc Ames Photography]]></title>
         <description><![CDATA[Marc Ames Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marc-ames-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 00:14:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 Nov 2015 00:15:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marc-ames-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My Best Photo]]></title>
             <description><![CDATA[<article><h1>My Best Photo</h1><p>Beautiful Child</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1d7cd6c-b188-4d0e-82b0-5555fd947f4b.jpg"></article>]]></description>
-            <link>undefinedmy-best-photo/index.html</link>
+            <link>https://thegrid.ai/marc-ames-photography/my-best-photo/index.html</link>
             <guid isPermaLink="false">5ff3ae5a-481e-4981-b917-22d62d312779</guid>
+            <pubDate>Tue, 17 Nov 2015 00:14:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/marc-ames-photography/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">a8e4a75b-8992-40af-bba0-3aefdb6e2f5a</guid>
             <pubDate>Tue, 17 Nov 2015 00:14:35 GMT</pubDate>
         </item>
     </channel>
