@@ -1,29 +1,41 @@
-name: Marc Ames Photography
-favicon: null
-layout_spectrum: 0.8751
-typography_spectrum: 0.72435
 title: Marc Ames Photography
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6164874
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#000000'
+    - '#303030'
+    - '#8A8A8A'
+    - '#646464'
+    - '#FAFAFA'
+  rhythmicContrast: 0.3243728
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+favicon: null
+name: Marc Ames Photography
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#faf9f7'
-    - '#deb9b1'
-    - '#ac8181'
-    - '#774c4a'
-    - '#000000'
-  brandStrength: 1
-  lightness: 0.3125
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.827957
+layout_spectrum: 0.8996416
